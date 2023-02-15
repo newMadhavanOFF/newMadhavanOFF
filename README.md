@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springs,Hibernate,GO,Azure**
 
-- 💬 Ask me about **Programming in java,SQL,Data Structures**
+- 💬 Ask me about **Programming in java,SQL,Data Structures,Collections,JDBC**
 
 - 📫 How to reach me **madha1off@gmail.com**
 
