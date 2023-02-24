@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newmadhavanoff&label=Profile%20views&color=0e75b6&style=flat" alt="newmadhavanoff" /> </p>
 
-- 🌱 I’m currently learning **Springs,Hibernate,GO,Azure**
+- 🌱 I’m currently learning**Springs,Hibernate,GO,Azure**
 
 - 💬 Ask me about **Programming in java,SQL,Data Structures,Collections,JDBC**
 
